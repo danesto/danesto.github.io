@@ -1,1 +1,0 @@
-<h1 class="alert alert-danger"> Greška 404, stranica nije pronadjena, molimo vratite se nazad! </h1>

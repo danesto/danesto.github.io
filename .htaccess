@@ -1,3 +1,0 @@
-ErrorDocument 404 http://spoonandfork.epizy.com/index.php?page=404
-
-ErrorDocument 503 http://spoonandfork.epizy.com/index.php?page=503
